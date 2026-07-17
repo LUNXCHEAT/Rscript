@@ -1,1 +1,2 @@
---[[Made by Lunx | Kreta ai | discord.gg/CKUWWFVVpx | V1.0.0]] closed
+--[[Made by Lunx | Kreta ai | discord.gg/CKUWWFVVpx | V1.0.0]] 
+print("closed")
